@@ -6,7 +6,7 @@ const christopher = {
   age: 16,
   code: [Python, Javascript, HTML, CSS],
   links: {
-    facebook: 'https://facebook.com/chrostopher.jr.01',
+    facebook: 'https://facebook.com/christopher.jr.01',
     github: [
       "https://github.com/Greegmon",
       "https://github.com/lorem-ipsum-xyz"
