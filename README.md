@@ -1,13 +1,12 @@
-<h2>Hi, I'm Greegmon!</h2>
+<h2>Hi, I'm Christopher!</h2>
 
 ```javascript
-const greegmon = {
-  pronounce: 'He' | 'Him',
-  relationship: 'Single',
+const christopher = {
+  gender: 'Male',
   age: 16,
   code: [Python, Javascript, HTML, CSS],
   links: {
-    facebook: 'https://facebook.com/greegmon.1',
+    facebook: 'https://facebook.com/chrostopher.jr.01',
     github: [
       "https://github.com/Greegmon",
       "https://github.com/lorem-ipsum-xyz"
