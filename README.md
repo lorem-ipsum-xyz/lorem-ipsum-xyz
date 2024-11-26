@@ -4,6 +4,7 @@
 const christopher = {
   gender: 'Male',
   age: 16,
+  hobby: "Minecraft",
   code: [Python, Javascript, HTML, CSS],
   links: {
     facebook: 'https://facebook.com/christopher.jr.01',
