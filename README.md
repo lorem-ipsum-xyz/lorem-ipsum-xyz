@@ -22,6 +22,6 @@ const christopher = {
 
 
 ### Github Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lorem-ipsum-xyz&amp;show_icons=true" alt="GitHub Stats">
-</p>
+![lorem-ipsum-xyz's Stats](https://github-readme-stats.vercel.app/api?username=lorem-ipsum-xyz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![lorem-ipsum-xyz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lorem-ipsum-xyz&theme=vue-dark&hide_border=true)
+![lorem-ipsum-xyz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorem-ipsum-xyz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
